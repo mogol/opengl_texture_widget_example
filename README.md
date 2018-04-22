@@ -2,5 +2,6 @@
 
 ```
 Important: iOS works only on real devices, iOS simulator isn't supported.
-https://github.com/flutter/flutter/issues/14038
+[Flutter issue](https://github.com/flutter/flutter/issues/14038)
 ``` 
+![Demo gif](demo.gif)
