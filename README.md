@@ -1,10 +1,6 @@
-# opengl_texture
+# OpenGL via Texture Widget example
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-
-For help on editing plugin code, view the [documentation](https://flutter.io/platform-plugins/#edit-code).
+```
+Important: iOS works only on real devices, iOS simulator isn't supported.
+https://github.com/flutter/flutter/issues/14038
+``` 
